@@ -1,13 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
 .bkgrd {
-	background-color:green;
+	
 }
 
 #mainnav {
 	color:#ffffff;
 }
 
-.navbar-snooze a {
+.navbar-snooze {
 	color:#ffffff;
 }
