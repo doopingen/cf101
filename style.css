@@ -16,3 +16,8 @@
 .navbar-snooze {
 	color:#ffffff;
 }
+
+.hero {
+height: 100vh;
+padding: 0;	
+}
