@@ -45,3 +45,8 @@ background-size: cover;
 	font-weight:normal;
 	color:#ffffff;
 }
+
+#section-padding-std {
+	padding-top:10%;
+	padding-bottom:10%;
+}
