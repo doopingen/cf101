@@ -35,3 +35,8 @@ background-repeat: no-repeat;
 background-attachment: scroll;
 background-size: cover;
 }
+
+#heroh1 {
+	font-weight:600;
+	color:#ffffff;
+}
