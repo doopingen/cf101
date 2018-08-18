@@ -52,12 +52,12 @@
 }
 
 
-#sectionh2 {
+.sectionh2 {
 	font-weight:600;
 	color:#ffffff;
 }
 
-#sectionh3 {
+.sectionh3 {
 	font-weight:normal;
 	color:#ffffff;
 }
